@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+  margin: 50px 0;
+}
+
+p {
+  padding: 0 80px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+}
+
+.navbar {
+  padding: 10px 50px;
+}
+
+.contact {
+  text-align: center;
+}
+
+.contact-form {
+  width: 700px;
+  display: block;
+  margin: 50px auto;
+}
+
+.row {
+  margin: 0 70px;
+}
+
+.heading {
+  margin-top: 50px;
+}
